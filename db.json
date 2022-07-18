@@ -1,0 +1,66 @@
+{
+  "signin": [
+    {
+      "id": 1,
+      "user": "obaid",
+      "password": "123456"
+    },
+    {
+      "username": "obaid",
+      "password": "123456",
+      "apiId": "auth",
+      "id": 2
+    },
+    {
+      "username": "obaid",
+      "password": "123456",
+      "apiId": "auth",
+      "id": 3
+    },
+    {
+      "username": "jamal",
+      "password": "123456",
+      "apiId": "auth",
+      "id": 4
+    },
+    {
+      "username": "jamal",
+      "password": "123456",
+      "apiId": "auth",
+      "id": 5
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "user": "obaid",
+      "password": "123456"
+    },
+    {
+      "username": "obaid",
+      "password": "123456",
+      "apiId": "auth",
+      "id": 2
+    },
+    {
+      "username": "obaid",
+      "password": "123456",
+      "apiId": "auth",
+      "id": 3
+    },
+    {
+      "username": "obaid",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "apiId": "auth",
+      "id": 4
+    },
+    {
+      "username": "jamal",
+      "email": "jamal@canada.ca",
+      "password": "123456",
+      "apiId": "auth",
+      "id": 5
+    }
+  ]
+}
